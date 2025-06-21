@@ -1,0 +1,53 @@
+{
+  "sonhos": [
+    {
+      "sonho": "carro",
+      "grupo": "Cachorro",
+      "numero": "05",
+      "significado": "Segurança, lar, proteção"
+    },
+    {
+      "sonho": "cobra",
+      "grupo": "Jacaré",
+      "numero": "15",
+      "significado": "Mudanças, traições, atenção aos inimigos"
+    },
+    {
+      "sonho": "dinheiro",
+      "grupo": "Camelo",
+      "numero": "08",
+      "significado": "Ganhos inesperados, progresso"
+    }
+  ],
+  "palpites": {
+    "rio de janeiro": [
+      {
+        "grupo": "11",
+        "animal": "Cavalo",
+        "dezenas": ["41", "43", "45"]
+      },
+      {
+        "grupo": "01",
+        "animal": "Avestruz",
+        "dezenas": ["01", "02", "03"]
+      },
+      {
+        "grupo": "22",
+        "animal": "Tigre",
+        "dezenas": ["86", "87", "88"]
+      }
+    ],
+    "bahia": [
+      {
+        "grupo": "16",
+        "animal": "Leão",
+        "dezenas": ["61", "63", "65"]
+      },
+      {
+        "grupo": "06",
+        "animal": "Cabra",
+        "dezenas": ["21", "23", "25"]
+      }
+    ]
+  }
+}
