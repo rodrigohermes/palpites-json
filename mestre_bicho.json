@@ -1,53 +1,522 @@
-{
-  "sonhos": [
-    {
-      "sonho": "picape",
-      "grupo": "Cachorro",
-      "numero": "05",
-      "significado": "Segurança, lar, proteção"
-    },
-    {
-      "sonho": "cobra",
-      "grupo": "Jacaré",
-      "numero": "15",
-      "significado": "Mudanças, traições, atenção aos inimigos"
-    },
-    {
-      "sonho": "dinheiro",
-      "grupo": "Camelo",
-      "numero": "08",
-      "significado": "Ganhos inesperados, progresso"
+[
+  {
+    "sonho": "a",
+    "grupo": "Avestruz   grupo - 1",
+    "numero": "1002",
+    "significado": "Escrever ou ler a letra A durante o sonho, simboliza um recomeço, uma boa noticia, novidades ótimas que virão de longe, na certa através de pessoa muito querida, há tempos afastada.",
+    "loterias": {
+      "quina": [
+        "01",
+        "23",
+        "38",
+        "51",
+        "69"
+      ],
+      "megasena": [
+        "06",
+        "18",
+        "32",
+        "45",
+        "53",
+        "59"
+      ],
+      "lotofacil": [
+        "01",
+        "03",
+        "05",
+        "07",
+        "08",
+        "11",
+        "12",
+        "14",
+        "16",
+        "17",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "timemania": [
+        "04",
+        "13",
+        "18",
+        "25",
+        "31",
+        "37",
+        "45",
+        "51",
+        "56",
+        "61"
+      ]
     }
-  ],
-  "palpites": {
-    "rio de janeiro": [
-      {
-        "grupo": "11",
-        "animal": "Cavalo",
-        "dezenas": ["41", "43", "45"]
-      },
-      {
-        "grupo": "01",
-        "animal": "Avestruz",
-        "dezenas": ["01", "02", "03"]
-      },
-      {
-        "grupo": "22",
-        "animal": "Tigre",
-        "dezenas": ["86", "87", "88"]
-      }
-    ],
-    "bahia": [
-      {
-        "grupo": "16",
-        "animal": "Leão",
-        "dezenas": ["61", "63", "65"]
-      },
-      {
-        "grupo": "06",
-        "animal": "Cabra",
-        "dezenas": ["21", "23", "25"]
-      }
-    ]
+  },
+  {
+    "sonho": "a própria morte",
+    "grupo": "Elefante - 12",
+    "numero": "7246",
+    "significado": "Sonhar com a própria morte simboliza mudanças, transformações, descobertas e desenvolvimento positivo que estão ocorrendo dentro de você ou em sua vida. Embora o sonho com a própria morte possa provocar sentimentos de medo e ansiedade não é nenhuma causa para alarme e é considerado freqüentemente um símbolo positivo. Sonhar com sua própria morte é sinal de que grandes mudanças estão à sua frente. Você está passando um recomeço e deixando para trás o passado. Estas mudanças serão para melhor. Este sonho também simboliza a morte de velhos hábitos. Morte, pode não significar uma morte física, mas um fim de ciclo ou período. Este sonho também ocorre quando você está muito preocupado com alguém acometido por doença grave ou terminal. Ver alguém morrendo em seu sonho significa que seus sentimentos em relação a ela estão mortos ou que uma perda significante está acontecendo em sua relação com aquela pessoa.",
+    "loterias": {
+      "quina": [
+        "30",
+        "61",
+        "69",
+        "73",
+        "78"
+      ],
+      "megasena": [
+        "23",
+        "24",
+        "33",
+        "42",
+        "44",
+        "49"
+      ],
+      "lotofacil": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "11",
+        "13",
+        "16",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "timemania": [
+        "04",
+        "11",
+        "18",
+        "19",
+        "24",
+        "38",
+        "47",
+        "51",
+        "52",
+        "60"
+      ]
+    }
+  },
+  {
+    "sonho": "ababadar",
+    "grupo": "Borboleta - 4",
+    "numero": "1915",
+    "significado": "Sonhar com ababadar mostra que você poderá passar por um processo repetitivo. Assim como quando se vai ababadar algo você precisa dobrar e marcar várias vezes para conseguir o efeito de babado. Este processo pode acontecer tanto em casa como no trabalho, mas o mais provável é que isto aconteça no profissional, onde passará por algo cansativo e repetitivo, mas que ao final lhe trará ótimos resultados. Afinal seu trabalho será visto e reconhecido, e terá um diferencial, um toque seu e isto lhe trará grande satisfação pessoal. Por isso não reclame de alguns processos pelo qual você deve passar ao longo dos tempos, sempre há uma razão, um porque, para tudo o que se passa, procure sempre aprender com isso e assim evoluir como pessoa.",
+    "loterias": {
+      "quina": [
+        "02",
+        "04",
+        "13",
+        "47",
+        "55"
+      ],
+      "megasena": [
+        "07",
+        "20",
+        "25",
+        "29",
+        "41",
+        "44"
+      ],
+      "lotofacil": [
+        "02",
+        "03",
+        "05",
+        "06",
+        "09",
+        "10",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "23",
+        "25"
+      ],
+      "timemania": [
+        "06",
+        "07",
+        "14",
+        "22",
+        "23",
+        "36",
+        "53",
+        "56",
+        "58",
+        "76"
+      ]
+    }
+  },
+  {
+    "sonho": "abacate",
+    "grupo": "Cabra - 6",
+    "numero": "7024",
+    "significado": "Maduro: esperança, dias melhores. Verde: alguma tristeza na família, talvez uma discussão ou briga entre parentes.",
+    "loterias": {
+      "quina": [
+        "12",
+        "22",
+        "23",
+        "41",
+        "46"
+      ],
+      "megasena": [
+        "15",
+        "18",
+        "28",
+        "30",
+        "52",
+        "57"
+      ],
+      "lotofacil": [
+        "01",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18",
+        "23",
+        "24",
+        "25"
+      ],
+      "timemania": [
+        "12",
+        "13",
+        "24",
+        "26",
+        "39",
+        "46",
+        "53",
+        "60",
+        "62",
+        "68"
+      ]
+    }
+  },
+  {
+    "sonho": "abacaxi",
+    "grupo": "Cabra - 6",
+    "numero": "5921",
+    "significado": "Força e esperança no futuro. Grandes melhoras para todos, sem exceção. Para as jovens solteiras, um casamento à vista.",
+    "loterias": {
+      "quina": [
+        "03",
+        "23",
+        "53",
+        "56",
+        "74"
+      ],
+      "megasena": [
+        "14",
+        "23",
+        "28",
+        "29",
+        "58",
+        "60"
+      ],
+      "lotofacil": [
+        "01",
+        "02",
+        "03",
+        "07",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "17",
+        "19",
+        "20",
+        "23",
+        "24",
+        "25"
+      ],
+      "timemania": [
+        "14",
+        "20",
+        "31",
+        "44",
+        "50",
+        "63",
+        "67",
+        "68",
+        "70",
+        "72"
+      ]
+    }
+  },
+  {
+    "sonho": "abajur",
+    "grupo": "Touro - 21",
+    "numero": "3881",
+    "significado": "Sonhar com abajur indica que deve ter cuidado com novas aventuras. Outro significado para o sonho com abajur é que pode ocorrer alguma mudança importante no relacionamento. Abajur aceso sinaliza o desejo de conquistar um novo amor. Abajur apagado ou quebrado simboliza insatisfação no relacionamento atual.",
+    "loterias": {
+      "quina": [
+        "29",
+        "50",
+        "52",
+        "59",
+        "67"
+      ],
+      "megasena": [
+        "29",
+        "36",
+        "49",
+        "57",
+        "58",
+        "60"
+      ],
+      "lotofacil": [
+        "03",
+        "04",
+        "08",
+        "09",
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "22",
+        "25"
+      ],
+      "timemania": [
+        "14",
+        "17",
+        "18",
+        "24",
+        "37",
+        "42",
+        "48",
+        "60",
+        "67",
+        "70"
+      ]
+    }
+  },
+  {
+    "sonho": "abanador",
+    "grupo": "Avestruz - 1",
+    "numero": "3502",
+    "significado": "Sonhar com abanador simboliza que está se sentindo oprimido e busca por mais liberdade representada pela necessidade de conseguir mais ar para respirar. O sonho com abanador também pode significar que gostaria se sentir mais livre e esquecer de vez as lembranças negativas.",
+    "loterias": {
+      "quina": [
+        "11",
+        "20",
+        "26",
+        "41",
+        "75"
+      ],
+      "megasena": [
+        "14",
+        "15",
+        "20",
+        "27",
+        "45",
+        "47"
+      ],
+      "lotofacil": [
+        "01",
+        "02",
+        "03",
+        "07",
+        "09",
+        "11",
+        "12",
+        "13",
+        "14",
+        "16",
+        "17",
+        "19",
+        "21",
+        "22",
+        "25"
+      ],
+      "timemania": [
+        "01",
+        "03",
+        "07",
+        "12",
+        "20",
+        "43",
+        "52",
+        "59",
+        "67",
+        "70"
+      ]
+    }
+  },
+  {
+    "sonho": "abandono",
+    "grupo": "Cachorro - 5",
+    "numero": "6820",
+    "significado": "Sonhar que você é abandonado sugere que está na hora para deixar para trás sentimentos passados e características que estão impedindo seu crescimento. Renove velhas atitudes. Uma interpretação mais direta e literal deste sonho é que você tem medo de ficar sozinho, abandonado ou até mesmo ser traído. O sonho com abandono pode se originar de uma perda recente ou pelo medo de perder um amor. O medo de abandono pode se manifestar em seu sonho como parte do processo de recuperação pelo fim de um relacionamento. Também pode se originar de sentimentos não resolvidos ou problemas de infância. Alternativamente, o sonho indica que você está se sentindo negligenciado ou que seus sentimentos estão sendo negligenciados. Abandonar outros em seu sonho sugere que você esta sendo subjugado pelos problemas e decisões em sua vida.",
+    "loterias": {
+      "quina": [
+        "56",
+        "62",
+        "72",
+        "74",
+        "78"
+      ],
+      "megasena": [
+        "07",
+        "11",
+        "27",
+        "31",
+        "33",
+        "40"
+      ],
+      "lotofacil": [
+        "02",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "14",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "23",
+        "24",
+        "25"
+      ],
+      "timemania": [
+        "04",
+        "10",
+        "13",
+        "26",
+        "31",
+        "33",
+        "38",
+        "49",
+        "53",
+        "58"
+      ]
+    }
+  },
+  {
+    "sonho": "abelha",
+    "grupo": "Cobra - 9",
+    "numero": "8933",
+    "significado": "Mel, açúcar: adoçar a vida, melhorar a vida, afastar os problemas. Logo, logo, motivos para grandes alegrias e risos.",
+    "loterias": {
+      "quina": [
+        "55",
+        "57",
+        "59",
+        "67",
+        "76"
+      ],
+      "megasena": [
+        "25",
+        "30",
+        "31",
+        "35",
+        "36",
+        "47"
+      ],
+      "lotofacil": [
+        "01",
+        "03",
+        "07",
+        "08",
+        "10",
+        "12",
+        "13",
+        "15",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "24"
+      ],
+      "timemania": [
+        "02",
+        "04",
+        "06",
+        "20",
+        "30",
+        "59",
+        "62",
+        "64",
+        "77",
+        "79"
+      ]
+    }
+  },
+  {
+    "sonho": "abismo",
+    "grupo": "Carneiro - 7",
+    "numero": "8526",
+    "significado": "Possível preocupação, uma queda no amor ou nos negócios, mas com melhoras imediatas. Pensamento positivo e muita fé no amanhã.",
+    "loterias": {
+      "quina": [
+        "05",
+        "31",
+        "48",
+        "66",
+        "69"
+      ],
+      "megasena": [
+        "17",
+        "22",
+        "28",
+        "37",
+        "46",
+        "52"
+      ],
+      "lotofacil": [
+        "01",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10",
+        "11",
+        "13",
+        "14",
+        "15",
+        "18",
+        "22",
+        "23"
+      ],
+      "timemania": [
+        "11",
+        "15",
+        "19",
+        "26",
+        "35",
+        "38",
+        "46",
+        "52",
+        "61",
+        "72"
+      ]
+    }
   }
-}
+]
